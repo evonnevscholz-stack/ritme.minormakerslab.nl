@@ -1,0 +1,3 @@
+User-agent: *
+Allow:
+Sitemap: https://ritme.minormakerslab.nl/sitemap.xml
